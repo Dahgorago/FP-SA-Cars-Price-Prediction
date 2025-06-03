@@ -76,6 +76,9 @@ Model regresi yang digunakan:
 - **Dashboard Tableau (Visualisasi EDA)**:  
   👉 https://public.tableau.com/app/profile/evelio.excellenta/viz/MobilBekasArabSaudiAnalysis/Story2
 
+- **Canva (Presentation Slides)**:  
+  👉 https://www.canva.com/design/DAGpNihlikc/onKzk-HQ_QIebBxkMmjclQ/edit
+
 ---
 
 ## 👥 Kontributor
